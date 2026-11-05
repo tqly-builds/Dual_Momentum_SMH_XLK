@@ -1,0 +1,5 @@
+,CAGR,Sharpe,Sortino,Max Drawdown,DD Duration (mo),Terminal Wealth
+Dual Momentum,0.2119,0.9287,1.0139,-0.2249,31.0,328560.8984
+SMH Buy-and-Hold,0.2234,0.8529,0.8861,-0.4445,28.0,389917.8546
+50/50 SMH-XLU,0.1594,0.891,0.8462,-0.3987,30.0,146948.2766
+Relative Momentum,0.1732,0.7735,0.8326,-0.3637,31.0,182034.9729

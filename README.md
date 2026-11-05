@@ -35,9 +35,9 @@ Run all cells from top to bottom.
 ```
 dual_momentum_smh_xlu.ipynb   main notebook (all results, tables and figures)
 requirements.txt              Python dependencies
-data/monthly_prices.csv       month-end prices used in the paper (created on first run)
-figures/                      Figures 1-3 (created on run)
-results/                      result tables as CSV (created on run)
+data/monthly_prices.csv       month-end prices used in the paper
+figures/                      Figures 1-3 of the paper (300 dpi)
+results/                      every result table in the paper, as CSV
 ```
 
 ## Citation
