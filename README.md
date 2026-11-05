@@ -42,7 +42,7 @@ results/                      every result table in the paper, as CSV
 
 ## Citation
 
-Ly, T. (2026). *SMH vs XLU dual-momentum backtest* [Jupyter notebook]. GitHub. https://github.com/tqly-builds/dual_momentum_smh_xlk
+Ly, T. (2026). *SMH vs XLU dual-momentum backtest* [Jupyter notebook]. GitHub. https://github.com/tqly-builds/Dual_Momentum_SMH_XLK
 
 ## License
 
